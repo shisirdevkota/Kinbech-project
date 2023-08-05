@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./global.css" />
+  <link rel ="stylesheet" href="./Productadd.css"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fredoka">
+  <title>Product Add</title>
+</head>
+<body>
+  <div class="center">
+  <h1>Add New Product</h1> 
+  <form action=" " method="post" enctype="multipart/form-data">
+  <div class="text-field">
+    <input type="text" name="itemname" placeholder="ItemName" required/>
+  </div>
+  <div class="text-field">
+    <input type="text" name="itemPrice" placeholder="ItemPrice" required/>
+  </div>
+  <div class="text-field">
+    <input type="text" name="itemDescription" placeholder="itemDescription" required/>
+  </div>
+  <!-- Choese category -->
+  <select list="category" name="category"  class="category"  required>
+    <option value="Electronic Devices">Electronic Devices</option>
+    <option value="Home Appliances">Home Appliances</option>  
+    <option value="Computer">Computer</option>                   
+    <option value="Beauty">Beauty</option>                   
+    <option value="Clothing">Clothing</option>                   
+    <option value="Mobile">Mobile</option>                   
+    </select>
+  </div>
+
+  <div class="image">
+    <input type="file" name="upload_img"  accept="image/jpg, image/jpeg, image/png" required>
+  </div>
+</div>
+<button type="submit" class="submit" value="upload" name="upload" >Upload</button>
+</div>
+
+  </form>
+</div>
+</body>
+</html>
+

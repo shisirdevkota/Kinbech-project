@@ -1,0 +1,496 @@
+.search-bar {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-12xl);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+.search-icon {
+  position: absolute;
+  height: 80%;
+  width: 5.36%;
+  top: 5.71%;
+  right: 1.79%;
+  bottom: 14.29%;
+  left: 92.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo-child,
+.search {
+  position: absolute;
+  height: 2.23%;
+  width: 38.89%;
+  top: 1.72%;
+  right: 29.44%;
+  bottom: 96.06%;
+  left: 31.67%;
+}
+.logo-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl-5);
+  background-color: var(--color-gainsboro);
+}
+.untitled-design-8-1 {
+  position: absolute;
+  height: 86.05%;
+  width: 62.71%;
+  top: 6.98%;
+  right: 18.64%;
+  bottom: 6.98%;
+  left: 18.64%;
+  border-radius: var(--br-4xl-5);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo {
+  position: absolute;
+  height: 4.26%;
+  width: 6.18%;
+  top: 0.57%;
+  right: 92.36%;
+  bottom: 95.17%;
+  left: 1.46%;
+}
+.category,
+.home,
+.notification,
+.on-sell {
+  position: absolute;
+  height: 1.4%;
+  width: 3.54%;
+  top: 2.03%;
+  left: 9.03%;
+  display: inline-block;
+}
+.category,
+.notification,
+.on-sell {
+  width: 4.17%;
+  left: 16.39%;
+}
+.category,
+.notification {
+  width: 5.49%;
+  left: 24.38%;
+}
+.notification {
+  width: 6.88%;
+  left: 72.36%;
+}
+.product-icon {
+  position: relative;
+  width: 205.33px;
+  height: 222px;
+  object-fit: cover;
+}
+.name,
+.price- {
+  position: relative;
+  display: inline-block;
+  width: 51.08px;
+  flex-shrink: 0;
+}
+.price- {
+  width: 104.2px;
+}
+.product,
+.product1,
+.product2,
+.product3 {
+  position: absolute;
+  height: 20.85%;
+  width: 14.68%;
+  top: 65.67%;
+  right: 10.24%;
+  bottom: 13.48%;
+  left: 75.08%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.product1,
+.product2,
+.product3 {
+  right: 32.05%;
+  left: 53.27%;
+}
+.product2,
+.product3 {
+  right: 55.02%;
+  left: 30.3%;
+}
+.product3 {
+  width: 12.95%;
+  right: 79.78%;
+  left: 7.26%;
+}
+.shopping-cart-icon {
+  position: absolute;
+  width: 3.13%;
+  top: 18px;
+  right: 16.18%;
+  left: 80.69%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 49px;
+  object-fit: cover;
+}
+.about-us1,
+.connect-with-us,
+.contact-us {
+  position: relative;
+  display: inline-block;
+  width: 89.31px;
+  flex-shrink: 0;
+}
+.connect-with-us,
+.contact-us {
+  width: 108.53px;
+}
+.connect-with-us {
+  width: 162.8px;
+}
+.facebook-icon,
+.instagram-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.instagram-icon {
+  width: 33.92px;
+}
+.about-us {
+  position: absolute;
+  height: 4.2%;
+  top: 95.8%;
+  bottom: 0;
+  left: calc(50% - 1997.5px);
+  background-color: var(--color-darkgray);
+  width: 4020px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-mini) var(--padding-10xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xs);
+}
+.profile-botten-child {
+  position: relative;
+  border-radius: 50%;
+  width: 40.38px;
+  height: 40px;
+  object-fit: cover;
+}
+.user-name {
+  position: relative;
+  display: inline-block;
+  width: 95.91px;
+  flex-shrink: 0;
+}
+.product-fram,
+.profile-botten {
+  position: absolute;
+  background-color: var(--color-gainsboro);
+}
+.profile-botten {
+  height: 3.43%;
+  width: 11.36%;
+  top: 1.14%;
+  right: 2.01%;
+  bottom: 95.42%;
+  left: 86.63%;
+  border-radius: var(--br-base);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+}
+.product-fram {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.description {
+  position: absolute;
+  height: 5.85%;
+  width: 12.5%;
+  top: 35.38%;
+  left: 40.03%;
+  display: inline-block;
+}
+.product-icon4 {
+  position: absolute;
+  height: 70.57%;
+  width: 30.79%;
+  top: 8.85%;
+  right: 66.75%;
+  bottom: 20.59%;
+  left: 2.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.name4,
+.price-4 {
+  position: absolute;
+  height: 6.99%;
+  width: 7.66%;
+  top: 8.85%;
+  left: 40.03%;
+  display: inline-block;
+}
+.price-4 {
+  width: 15.63%;
+  top: 79.76%;
+}
+.button {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-lightgreen-100);
+}
+.add-to-cart1 {
+  position: absolute;
+  height: 37.84%;
+  width: 79.52%;
+  top: 32.43%;
+  left: 10.84%;
+  display: inline-block;
+}
+.add-to-cart {
+  position: absolute;
+  height: 5.55%;
+  width: 6%;
+  top: 92.65%;
+  right: 10.33%;
+  bottom: 1.8%;
+  left: 83.67%;
+  font-size: var(--font-size-xs);
+}
+.buy-now1 {
+  position: absolute;
+  height: 37.84%;
+  width: 61.45%;
+  top: 32.43%;
+  left: 19.28%;
+  display: inline-block;
+}
+.buy-now {
+  position: absolute;
+  height: 5.55%;
+  width: 6%;
+  top: 92.65%;
+  right: 17.77%;
+  bottom: 1.8%;
+  left: 76.23%;
+  font-size: var(--font-size-xs);
+}
+.quentity-child {
+  position: absolute;
+  height: 107.63%;
+  width: 102.42%;
+  top: -3.81%;
+  right: -1.21%;
+  bottom: -3.81%;
+  left: -1.21%;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.quentity-inner,
+.quentity-item {
+  position: absolute;
+  height: 3.81%;
+  width: 10.41%;
+  top: 49.07%;
+  right: 82.22%;
+  bottom: 47.11%;
+  left: 7.37%;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.quentity-inner {
+  width: 9.8%;
+  right: 5.53%;
+  left: 84.67%;
+}
+.line-icon {
+  height: 27.48%;
+  width: 1.28%;
+  top: 35.29%;
+  right: 9.75%;
+  bottom: 37.22%;
+  left: 88.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.line-icon,
+.quentity {
+  position: absolute;
+}
+.div {
+  height: 56.86%;
+  width: 7.36%;
+  top: 21.57%;
+  left: 46.63%;
+  display: inline-block;
+}
+.quentity {
+  height: 7.2%;
+  width: 11.08%;
+  top: 91%;
+  right: 25.79%;
+  bottom: 1.8%;
+  left: 63.12%;
+  font-size: var(--font-size-5xl);
+}
+.product-profile-child,
+.product-profile-child1,
+.product-profile-inner,
+.product-profile-item,
+.star-icon {
+  position: absolute;
+  height: 3.3%;
+  width: 1.59%;
+  top: 19.94%;
+  right: 58.34%;
+  bottom: 76.76%;
+  left: 40.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.product-profile-child1,
+.product-profile-inner,
+.product-profile-item,
+.star-icon {
+  right: 56.1%;
+  left: 42.31%;
+}
+.product-profile-child1,
+.product-profile-inner,
+.star-icon {
+  right: 53.86%;
+  left: 44.55%;
+}
+.product-profile-child1,
+.star-icon {
+  right: 51.62%;
+  left: 46.79%;
+}
+.product-profile-child1 {
+  right: 49.38%;
+  left: 49.03%;
+}
+.brand,
+.ratings {
+  position: absolute;
+  height: 2.85%;
+  width: 4.12%;
+  top: 20.24%;
+  left: 51.45%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.brand {
+  width: 3.61%;
+  top: 25.79%;
+  left: 40.39%;
+}
+.favorite-icon,
+.share-icon {
+  position: absolute;
+  height: 5.4%;
+  width: 2.6%;
+  top: 23.09%;
+  right: 25.79%;
+  bottom: 71.51%;
+  left: 71.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.favorite-icon {
+  top: 23.24%;
+  right: 22.47%;
+  bottom: 71.36%;
+  left: 74.93%;
+}
+.more-product-from {
+  position: absolute;
+  height: 2.85%;
+  width: 13.87%;
+  top: 25.64%;
+  left: 51.45%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.product-profile {
+  position: absolute;
+  height: 42.4%;
+  width: 80.92%;
+  top: 13.73%;
+  right: 9.81%;
+  bottom: 43.87%;
+  left: 9.27%;
+  font-size: var(--font-size-13xl);
+}
+.suggested {
+  position: absolute;
+  top: 58.44%;
+  left: 7.7%;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.05em;
+  font-weight: 300;
+}
+.product-description-page {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 1718px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

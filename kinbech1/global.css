@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-fira-sans: "Fira Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-13xl: 32px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+  --color-lightgreen-100: #66d778;
+  --color-lightgreen-200: #59d76d;
+  --color-darkgray: #b4afaf;
+  --color-white: #fff;
+  --color-aliceblue: #e3eef0;
+
+  /* Gaps */
+  --gap-4xl: 23px;
+  --gap-6xs: 7px;
+  --gap-42xl: 61px;
+
+  /* Paddings */
+  --padding-6xs: 7px;
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-10xl: 29px;
+  --padding-2xs: 11px;
+
+  /* border radiuses */
+  --br-mid: 17px;
+  --br-base: 16px;
+  --br-4xl-5: 23.5px;
+  --br-2xl-5: 21.5px;
+  --br-12xl: 31px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-40xl: 59px;
+  --br-16xl: 35px;
+}

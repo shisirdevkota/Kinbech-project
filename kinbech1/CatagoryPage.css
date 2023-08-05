@@ -1,0 +1,379 @@
+.search-bar3 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-12xl);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+.search-icon3 {
+  position: absolute;
+  height: 80%;
+  width: 5.36%;
+  top: 5.71%;
+  right: 1.79%;
+  bottom: 14.29%;
+  left: 92.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-div,
+.search3 {
+  position: absolute;
+  height: 2.23%;
+  width: 38.89%;
+  top: 1.72%;
+  right: 29.44%;
+  bottom: 96.06%;
+  left: 31.67%;
+}
+.rectangle-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl-5);
+  background-color: var(--color-gainsboro);
+}
+.untitled-design-8-13 {
+  position: absolute;
+  height: 86.05%;
+  width: 62.71%;
+  top: 6.98%;
+  right: 18.64%;
+  bottom: 6.98%;
+  left: 18.64%;
+  border-radius: var(--br-4xl-5);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo3 {
+  position: absolute;
+  height: 4.26%;
+  width: 6.18%;
+  top: 0.57%;
+  right: 92.36%;
+  bottom: 95.17%;
+  left: 1.46%;
+}
+.category6,
+.home3,
+.notification3,
+.on-sell3 {
+  position: absolute;
+  width: 3.54%;
+  top: 2.03%;
+  left: 9.03%;
+  display: inline-block;
+}
+.category6,
+.notification3,
+.on-sell3 {
+  width: 4.17%;
+  left: 16.39%;
+}
+.category6,
+.notification3 {
+  width: 5.49%;
+  left: 24.38%;
+}
+.notification3 {
+  width: 6.88%;
+  left: 72.36%;
+}
+.product-icon17 {
+  position: relative;
+  width: 205.33px;
+  height: 222px;
+  object-fit: cover;
+}
+.name17,
+.price-17 {
+  position: relative;
+  display: inline-block;
+  width: 51.08px;
+  flex-shrink: 0;
+}
+.price-17 {
+  width: 104.2px;
+}
+.plus-icon12 {
+  position: relative;
+  width: 46.99px;
+  height: 50px;
+  object-fit: cover;
+}
+.product16,
+.product17,
+.product18,
+.product19,
+.product20,
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  position: absolute;
+  height: 20.85%;
+  width: 14.68%;
+  top: 37.51%;
+  right: 8.56%;
+  bottom: 40;
+  left: 76.76%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  cursor: pointer;
+}
+.product17,
+.product18,
+.product19,
+.product20,
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 12.21%;
+  right: 8.03%;
+  bottom: 66.94%;
+  left: 77.29%;
+}
+.product18,
+.product19,
+.product20,
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 65.67%;
+  right: 10.24%;
+  bottom: 13.48%;
+  left: 75.08%;
+}
+.product19,
+.product20,
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 37.51%;
+  right: 30.37%;
+  bottom: 41.64%;
+  left: 54.95%;
+}
+.product20,
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 12.21%;
+  right: 29.84%;
+  bottom: 66.94%;
+  left: 55.48%;
+}
+.product21,
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 65.67%;
+  right: 32.05%;
+  bottom: 13.48%;
+  left: 53.27%;
+}
+.product22,
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 37.51%;
+  right: 53.38%;
+  bottom: 41.64%;
+  left: 31.94%;
+}
+.product23,
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 12.21%;
+  right: 52.84%;
+  bottom: 66.94%;
+  left: 32.48%;
+}
+.product24,
+.product25,
+.product26,
+.product27 {
+  top: 65.67%;
+  right: 55.02%;
+  bottom: 13.48%;
+  left: 30.3%;
+}
+.product25,
+.product26,
+.product27 {
+  top: 37.51%;
+  right: 76.42%;
+  bottom: 41.64%;
+  left: 8.9%;
+}
+.product26,
+.product27 {
+  top: 12.21%;
+  right: 75.87%;
+  bottom: 66.94%;
+  left: 9.45%;
+}
+.product27 {
+  top: 65.67%;
+  right: 78.06%;
+  bottom: 13.48%;
+  left: 7.26%;
+}
+.shopping-cart-icon3 {
+  position: absolute;
+  width: 3.13%;
+  top: 18px;
+  right: 16.18%;
+  left: 80.69%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 49px;
+  object-fit: cover;
+}
+.about-us8,
+.connect-with-us3,
+.contact-us4 {
+  position: relative;
+  display: inline-block;
+  width: 89.31px;
+  flex-shrink: 0;
+}
+.connect-with-us3,
+.contact-us4 {
+  width: 108.53px;
+}
+.connect-with-us3 {
+  width: 162.8px;
+}
+.facebook-icon3,
+.instagram-icon3 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.instagram-icon3 {
+  width: 33.92px;
+}
+.about-us7 {
+  position: absolute;
+  height: 4.2%;
+  top: 95.8%;
+  bottom: 0;
+  left: calc(50% - 1997.5px);
+  background-color: var(--color-darkgray);
+  width: 4020px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-mini) var(--padding-10xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xs);
+}
+.category7 {
+  position: absolute;
+  top: 534px;
+  left: 126px;
+}
+.category8,
+.category9 {
+  position: absolute;
+  top: 136px;
+  left: 127px;
+}
+.category9 {
+  top: 952px;
+  left: 126px;
+}
+.ellipse-icon {
+  position: relative;
+  border-radius: 50%;
+  width: 40.38px;
+  height: 40px;
+  object-fit: cover;
+}
+.user-name3 {
+  position: relative;
+  display: inline-block;
+  width: 95.91px;
+  flex-shrink: 0;
+}
+.catagory-page,
+.profile-botten3 {
+  background-color: var(--color-gainsboro);
+}
+.profile-botten3 {
+  position: absolute;
+  height: 3.43%;
+  width: 11.36%;
+  top: 1.14%;
+  right: 2.01%;
+  bottom: 95.42%;
+  left: 86.63%;
+  border-radius: var(--br-base);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+}
+.catagory-page {
+  position: relative;
+  width: 100%;
+  height: 1573px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

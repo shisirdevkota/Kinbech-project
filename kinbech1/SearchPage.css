@@ -1,0 +1,324 @@
+.search-bar6 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-12xl);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+.search-icon6 {
+  position: absolute;
+  height: 80%;
+  width: 5.36%;
+  top: 5.71%;
+  right: 1.79%;
+  bottom: 14.29%;
+  left: 92.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo-child3,
+.search6 {
+  position: absolute;
+  height: 2.23%;
+  width: 38.89%;
+  top: 1.72%;
+  right: 29.44%;
+  bottom: 96.06%;
+  left: 31.67%;
+}
+.logo-child3 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl-5);
+  background-color: var(--color-gainsboro);
+}
+.untitled-design-8-16 {
+  position: absolute;
+  height: 86.05%;
+  width: 62.71%;
+  top: 6.98%;
+  right: 18.64%;
+  bottom: 6.98%;
+  left: 18.64%;
+  border-radius: var(--br-4xl-5);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home6,
+.logo6 {
+  position: absolute;
+  cursor: pointer;
+}
+.logo6 {
+  height: 4.26%;
+  width: 6.18%;
+  top: 0.57%;
+  right: 92.36%;
+  bottom: 95.17%;
+  left: 1.46%;
+}
+.home6 {
+  width: 3.54%;
+  top: 2.03%;
+  left: 9.03%;
+  display: inline-block;
+}
+.on-sell6 {
+  width: 5%;
+  left: 16.39%;
+  cursor: pointer;
+}
+.category12,
+.notification6,
+.on-sell6 {
+  position: absolute;
+  top: 2.03%;
+  display: inline-block;
+}
+.category12 {
+  width: 5.49%;
+  left: 24.38%;
+  cursor: pointer;
+}
+.notification6 {
+  width: 6.88%;
+  left: 72.36%;
+}
+.product-icon34 {
+  position: relative;
+  width: 205.33px;
+  height: 222px;
+  object-fit: cover;
+}
+.name35,
+.price-34 {
+  position: relative;
+  display: inline-block;
+  width: 51.08px;
+  flex-shrink: 0;
+}
+.price-34 {
+  width: 104.2px;
+}
+.plus-icon24 {
+  position: relative;
+  width: 46.99px;
+  height: 50px;
+  object-fit: cover;
+}
+.product33,
+.product34,
+.product35,
+.product36,
+.product37,
+.product38,
+.product39,
+.product40,
+.product41 {
+  position: absolute;
+  height: 20.85%;
+  width: 14.68%;
+  top: 37.51%;
+  right: 8.56%;
+  bottom: 41.64%;
+  left: 76.76%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  cursor: pointer;
+}
+.product34,
+.product35,
+.product36,
+.product37,
+.product38,
+.product39,
+.product40,
+.product41 {
+  top: 12.21%;
+  right: 8.03%;
+  bottom: 66.94%;
+  left: 77.29%;
+}
+.product35,
+.product36,
+.product37,
+.product38,
+.product39,
+.product40,
+.product41 {
+  top: 65.67%;
+  right: 10.24%;
+  bottom: 13.48%;
+  left: 75.08%;
+}
+.product36,
+.product37,
+.product38,
+.product39,
+.product40,
+.product41 {
+  top: 37.51%;
+  right: 30.37%;
+  bottom: 41.64%;
+  left: 54.95%;
+}
+.product37,
+.product38,
+.product39,
+.product40,
+.product41 {
+  top: 12.21%;
+  right: 29.84%;
+  bottom: 66.94%;
+  left: 55.48%;
+}
+.product38,
+.product39,
+.product40,
+.product41 {
+  top: 65.67%;
+  right: 32.05%;
+  bottom: 13.48%;
+  left: 53.27%;
+}
+.product39,
+.product40,
+.product41 {
+  top: 37.51%;
+  right: 53.38%;
+  bottom: 41.64%;
+  left: 31.94%;
+}
+.product40,
+.product41 {
+  top: 12.21%;
+  right: 52.84%;
+  bottom: 66.94%;
+  left: 32.48%;
+}
+.product41 {
+  top: 65.67%;
+  right: 52.8%;
+  bottom: 13.48%;
+  left: 32.52%;
+}
+.shopping-cart-icon6 {
+  position: absolute;
+  width: 3.13%;
+  top: 18px;
+  right: 16.18%;
+  left: 80.69%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.about-us14,
+.connect-with-us6,
+.contact-us7 {
+  position: relative;
+  display: inline-block;
+  width: 89.31px;
+  flex-shrink: 0;
+}
+.connect-with-us6,
+.contact-us7 {
+  width: 108.53px;
+}
+.connect-with-us6 {
+  width: 162.8px;
+}
+.facebook-icon6,
+.instagram-icon6 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.instagram-icon6 {
+  width: 33.92px;
+}
+.about-us13 {
+  position: absolute;
+  height: 4.2%;
+  top: 95.8%;
+  bottom: 0;
+  left: calc(50% - 1997.5px);
+  background-color: var(--color-darkgray);
+  width: 4020px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-mini) var(--padding-10xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xs);
+}
+.profile-botten-child3 {
+  position: relative;
+  border-radius: 50%;
+  width: 40.38px;
+  height: 40px;
+  object-fit: cover;
+}
+.user-name7 {
+  position: relative;
+  display: inline-block;
+  width: 95.91px;
+  flex-shrink: 0;
+}
+.profile-botten6,
+.search-page {
+  background-color: var(--color-gainsboro);
+}
+.profile-botten6 {
+  position: absolute;
+  height: 3.43%;
+  width: 11.36%;
+  top: 1.14%;
+  right: 2.01%;
+  bottom: 95.42%;
+  left: 86.63%;
+  border-radius: var(--br-base);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+  cursor: pointer;
+}
+.search-page {
+  position: relative;
+  width: 100%;
+  height: 1573px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,184 @@
+.facebook-1-icon {
+    position: absolute;
+    top: calc(50% + 145.5px);
+    left: calc(50% + 23.45px);
+    width: 95px;
+    height: 95px;
+    object-fit: cover;
+  }
+  .content1 {
+    position: absolute;
+    height: 71.83%;
+    top: 14.08%;
+    bottom: 14.08%;
+    left: calc(50% - 316px);
+    border-radius: var(--br-16xl);
+    background-color: var(--color-aliceblue);
+    box-shadow: 13px 15px 4px rgba(0, 0, 0, 0.25);
+    width: 631.1px;
+  }
+  .login4 {
+    position: absolute;
+    top: calc(50% - 322.57px);
+    left: calc(50% - 44.07px);
+    letter-spacing: 0.1em;
+    display: inline-block;
+    width: 86.99px;
+    height: 26.84px;
+  }
+  .sign-in {
+    position: relative;
+    letter-spacing: 0.05em;
+  }
+  
+  .singin {
+    position: absolute;
+    font-family: var(--font-inter);
+  }
+  .singin {
+    height: 4.69%;
+    width: 9.81%;
+    top: 49.76%;
+    right: 44.83%;
+    bottom: 45.55%;
+    left: 45.36%;
+    border-radius: var(--br-40xl);
+    background-color: var(--color-lightgreen-200);
+    display: flex;
+    flex-direction: row;
+    padding: 12px 32px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .for{
+    position: absolute;
+    font-family: var(--font-inter);
+    height: 4.69%;
+    width: 9.81%;
+    top: 49.76%;
+    right: 44.83%;
+    bottom: 45.55%;
+    left: 5.36%;
+    border-radius: var(--br-40xl);
+    background-color: var(--color-lightgreen-200);
+    display: flex;
+    flex-direction: row;
+    padding: 12px 32px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .forget-password {
+    height: 2.78%;
+    width: 16%;
+    top: 42.58%;
+    left: 20%;
+    display: inline-block;
+  }
+  .email-bar,
+  .password-bar {
+    border: 0;
+    background-color: var(--color-gainsboro);
+    position: absolute;
+    height: 5.31%;
+    width: 33.44%;
+    top: 35.87%;
+    right: 33.29%;
+    bottom: 58.81%;
+    left: 33.27%;
+    border-radius: var(--br-xl);
+  }
+  .email-bar {
+    top: 26.13%;
+    bottom: 68.56%;
+  }
+  .google-icon1 {
+    position: absolute;
+    top: calc(50% + 145.5px);
+    left: calc(50% - 85px);
+    width: 95px;
+    height: 95px;
+    object-fit: cover;
+  }
+  .facebook-icon10 {
+    position: absolute;
+    height: 7.9%;
+    width: 5.33%;
+    top: 65.74%;
+    right: 43.68%;
+    bottom: 26.36%;
+    left: 50.99%;
+  }
+  .i-havent-account {
+    position: relative;
+    letter-spacing: 0.05em;
+    font-weight: 300;
+  }
+  .i-havent-account-wrapper {
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs);
+    align-items: center;
+    justify-content: center;
+  }
+  .signup1 {
+    position: relative;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+  }
+  .frame-parent,
+  .signup-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  .signup-wrapper {
+    flex-direction: row;
+    padding: var(--padding-3xs);
+    justify-content: center;
+    font-family: var(--font-inter);
+  }
+  .frame-parent {
+    height: 8.67%;
+    width: 16.57%;
+    top: 74.07%;
+    right: 41.42%;
+    bottom: 17.26%;
+    left: 42.01%;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .frame-parent,
+  .kinbech1,
+  .or1 {
+    position: absolute;
+  }
+  .or1 {
+    height: 2.58%;
+    width: 2.28%;
+    top: 59.52%;
+    left: 49.06%;
+    letter-spacing: 0.05em;
+    display: inline-block;
+    font-family: var(--font-inter);
+  }
+  .kinbech1 {
+    top: calc(50% - 466.5px);
+    left: calc(50% - 142px);
+    font-size: var(--font-size-45xl);
+    letter-spacing: 0.1em;
+    font-weight: 800;
+  }
+  .login3 {
+    position: relative;
+    background-color: var(--color-gainsboro);
+    width: 100%;
+    height: 1045px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-fira-sans);
+  }
+  
